@@ -1,0 +1,61 @@
+#content{
+	margin: 0 auto;
+	background: rgba(196,243,255,0.61);
+    height: 200px;
+    padding: 20px;
+}
+b{
+	border-bottom: 1px solid 
+}
+#comments{
+    background: rgba(196,243,255,0.8);
+    padding: 20px;
+}
+#comment{
+    height: auto;
+}
+#answers{
+    padding-left: 20px
+}
+.infobox{
+    border: 1px solid #a2a9b1;
+   	background: rgba(196,243,255,0.61);
+    margin-bottom: .5em;
+    margin-left: 1em;
+    padding: .4em;
+    float: right;
+    clear: right;
+    font-size: 90%;
+    width: 23em;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+#button-addon1{
+  width: auto;
+  height: auto;
+}
+.input-group.btn btn-outline-secondary {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+ }
+#delete{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+#update{
+    margin-left: -110px;
+    margin-top: 20px;
+}

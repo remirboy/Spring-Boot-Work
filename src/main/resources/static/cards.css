@@ -1,0 +1,19 @@
+.card-img-top{
+	width: 300px;
+	height: 140px;
+
+}
+h5{
+/*	background: rgba(156,156,156,0.61);*/
+	width: 250px;
+	height: 20px;
+}
+/*.card{
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.82);	
+}*/
+.input-group{
+	width: 600px;
+	margin-left: 500px;
+	margin-right: 500px;	
+}
+	
